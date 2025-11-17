@@ -1,3 +1,96 @@
+/* Font Faces - Lastik (Serif) */
+@font-face {
+    font-family: "Lastik";
+    src: url("Lastik Family/woff2/LastikFamily-Regular.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Lastik";
+    src: url("Lastik Family/woff2/LastikFamily-SemiBold.woff2") format("woff2");
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Lastik";
+    src: url("Lastik Family/woff2/LastikFamily-Bold.woff2") format("woff2");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Lastik";
+    src: url("Lastik Family/woff2/LastikFamily-ExtraBold.woff2") format("woff2");
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Lastik";
+    src: url("Lastik Family/woff2/LastikFamily-Black.woff2") format("woff2");
+    font-weight: 900;
+    font-style: normal;
+}
+
+/* Font Faces - Segment (Sans-Serif) */
+@font-face {
+    font-family: "Segment";
+    src: url("Segment_Font/Typekiln - Segment-Regular.otf") format("opentype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Segment";
+    src: url("Segment_Font/Typekiln - Segment-Italic.otf") format("opentype");
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Segment";
+    src: url("Segment_Font/Typekiln - Segment-Medium.otf") format("opentype");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Segment";
+    src: url("Segment_Font/Typekiln - Segment-MediumItalic.otf") format("opentype");
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Segment";
+    src: url("Segment_Font/Typekiln - Segment-SemiBold.otf") format("opentype");
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Segment";
+    src: url("Segment_Font/Typekiln - Segment-SemiBoldItalic.otf") format("opentype");
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Segment";
+    src: url("Segment_Font/Typekiln - Segment-Bold.otf") format("opentype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Segment";
+    src: url("Segment_Font/Typekiln - Segment-BoldItalic.otf") format("opentype");
+    font-weight: 700;
+    font-style: italic;
+}
+
 /* CSS Variables */
 :root {
     /* Colors */
